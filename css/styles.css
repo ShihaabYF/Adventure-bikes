@@ -131,8 +131,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 50px 40px;
+    padding: 50px 70px;
     row-gap: 30px;
+
+    background-color: antiquewhite;
 }
 
 /* title-part */
@@ -140,4 +142,26 @@ body {
     font-family: monospace;
     font-size: xx-large;
     font-weight: bolder;
+}
+
+/* Bikes-part */
+.core-block .bikes {
+    display: flex;
+    justify-content: center;
+    column-gap: 4px;
+    /* align-items: center; */
+    width: 100%;
+    max-width: 1300px;
+}
+
+
+.core-block .bikes .container {
+
+    width: 150px;
+    flex-grow: 1;
+}
+
+.core-block .bikes div img {
+    width: 100%;
+    border-radius: 10px;
 }
