@@ -67,3 +67,60 @@ body {
     background-color: rgb(255, 136, 0);
     margin-right: 20px;
 }
+
+
+
+
+/* Hero-block */
+.hero-container {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 80px 40px;
+    /* height: 80vh; */
+    align-items: center;
+    justify-content: center;
+    column-gap: 40px;
+}
+
+.hero-container .contain-left-part {
+    display: flex;
+    flex: 1 1 auto;
+    /* border: white 2px solid;for debugging only */
+    width: 600px;
+    max-width: 800px;
+}
+
+.hero-container .left-part{
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    row-gap: 35px;
+}
+
+.hero-container .left-part .title{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.hero-container .left-part .text {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    font-family: monospace;
+    font-size: large;
+    /* width: 100%; */
+    
+}
+
+
+.hero-container .right-part {
+    width: 500px;
+    max-width: 600px;
+    flex-grow: 1;
+
+}
+.hero-container .right-part img {
+    width: 100%;
+}
