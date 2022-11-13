@@ -135,6 +135,7 @@ body {
     row-gap: 30px;
 }
 
+/* title-part */
 .core-block .title {
     font-family: monospace;
     font-size: xx-large;
