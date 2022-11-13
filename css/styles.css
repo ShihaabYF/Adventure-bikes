@@ -156,7 +156,10 @@ body {
 
 
 .core-block .bikes .container {
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 12px;
     width: 150px;
     flex-grow: 1;
 }
@@ -164,4 +167,11 @@ body {
 .core-block .bikes div img {
     width: 100%;
     border-radius: 10px;
+}
+
+
+.core-block .bikes .bike-name {
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
 }
