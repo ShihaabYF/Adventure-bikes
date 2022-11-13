@@ -51,6 +51,7 @@ body {
     color: white;
     font-weight: bold;
     font-size: 16px;
+    font-family: monospace;
 }
 .header .navigation button:hover{
     border: 2px white solid;
