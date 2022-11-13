@@ -56,3 +56,9 @@ body {
 .header .navigation button:hover{
     border: 2px white solid;
 }
+
+/* Special buttons */
+.header .navigation .join {
+    background-color: rgb(58, 100, 58);
+    margin-left: 20px;
+}
