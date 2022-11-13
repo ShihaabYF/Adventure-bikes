@@ -124,3 +124,19 @@ body {
 .hero-container .right-part img {
     width: 100%;
 }
+
+
+/* core content */
+.core-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px 40px;
+    row-gap: 30px;
+}
+
+.core-block .title {
+    font-family: monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+}
