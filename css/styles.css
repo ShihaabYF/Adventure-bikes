@@ -175,3 +175,41 @@ body {
     font-family: monospace;
     font-size: large;
 }
+
+
+/* Invitation-block*/
+.invitation-block {
+    display: flex;
+    justify-content: center;
+    padding: 30px 50px; /*edit*/
+}
+
+.invitation-block .container {
+    display: flex;
+    flex: auto;
+    justify-content: space-between;
+    column-gap: 30px;
+    align-items: center;
+    padding: 30px 50px;
+    max-width: 1200px;
+    background-color: rgba(17, 108, 245, 0.863);
+    border-radius: 10px;
+}
+
+.invitation-block .container .text {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    /* border: 2px white solid; */
+    width: 100%;
+    /* max-width: 850px; */
+
+    color: white;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.invitation-block .container .text .title {
+    font-size: x-large;
+    font-weight: bolder;
+}
