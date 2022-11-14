@@ -222,6 +222,7 @@ body {
     border: 2px rgba(255, 255, 255, 0) solid;
     padding: 3px 10px;
     border-radius: 5px;
+    width: 120px;
 }
 
 .invitation-block .container button:hover {
