@@ -131,10 +131,10 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 50px 70px;
-    row-gap: 30px;
+    padding: 50px 80px 90px;
+    row-gap: 50px;
 
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 
 /* title-part */
@@ -148,7 +148,7 @@ body {
 .core-block .bikes {
     display: flex;
     justify-content: center;
-    column-gap: 4px;
+    column-gap: 12px;
     /* align-items: center; */
     width: 100%;
     max-width: 1300px;
