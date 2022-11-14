@@ -182,6 +182,8 @@ body {
     display: flex;
     justify-content: center;
     padding: 30px 50px; /*edit*/
+    background-color: rgba(128, 128, 128, 0.158);
+
 }
 
 .invitation-block .container {
