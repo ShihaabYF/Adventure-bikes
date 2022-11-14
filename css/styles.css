@@ -200,9 +200,8 @@ body {
     display: flex;
     flex-direction: column;
     row-gap: 10px;
-    /* border: 2px white solid; */
     width: 100%;
-    /* max-width: 850px; */
+    max-width: 850px;
 
     color: white;
     font-family: monospace;
@@ -212,4 +211,30 @@ body {
 .invitation-block .container .text .title {
     font-size: x-large;
     font-weight: bolder;
+}
+
+/* join-button */
+
+.invitation-block .container button {
+    background-color: rgb(58, 100, 58);
+    border: 2px rgba(255, 255, 255, 0) solid;
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+
+.invitation-block .container button:hover {
+    border: 2px white solid;
+}
+
+.invitation-block .container button:active {
+    border: 2px black solid;
+
+}
+
+.invitation-block .container button a{
+    color: white;
+    text-decoration: none;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: large;
 }
