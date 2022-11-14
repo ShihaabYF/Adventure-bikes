@@ -316,3 +316,17 @@ body {
     border: 2px rgb(0, 0, 0) solid;
 
 }
+
+.footer-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+}
+
+.footer-block .footer {
+    font-family: monospace;
+    color: white;
+    font-size: large;
+}
