@@ -280,12 +280,12 @@ body {
     padding: 3px 10px;
     background-color: rgb(243, 118, 2);
     border-radius: 5px;
-    border: 0px;
     border: 2px rgba(0, 0, 0, 0) solid;
 
 }
 .credit-block .container .buttons .credit:hover {
-    border: 2px rgb(255, 255, 255) solid;
+    color: rgb(243, 118, 2);
+    background-color: white;
 
 }
 .credit-block .container .buttons .credit:active {
@@ -307,12 +307,12 @@ body {
     padding: 3px 10px;
     background-color: rgb(0, 132, 255);
     border-radius: 5px;
-    border: 0px;
     border: 2px rgba(0, 0, 0, 0) solid;
 
 }
 .credit-block .container .buttons .contact:hover {
-    border: 2px rgb(255, 255, 255) solid;
+    color: rgb(0, 132, 255);
+    background-color: white;
 
 }
 .credit-block .container .buttons .contact:active {
