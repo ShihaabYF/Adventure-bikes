@@ -218,32 +218,33 @@ body {
     font-weight: bolder;
 }
 
-/* join-button */
+/* join-anchor-button */
 
-.invitation-block .container button {
+.invitation-block .container a {
     background-color: rgb(58, 100, 58);
     border: 2px rgba(255, 255, 255, 0) solid;
     padding: 3px 10px;
     border-radius: 5px;
     width: 120px;
-}
 
-.invitation-block .container button:hover {
-    border: 2px white solid;
-}
-
-.invitation-block .container button:active {
-    border: 2px black solid;
-
-}
-
-.invitation-block .container button a{
     color: white;
     text-decoration: none;
     font-family: monospace;
     font-weight: bold;
     font-size: large;
 }
+.invitation-block .container a:active {
+    border: 2px black solid;
+
+}
+
+
+.invitation-block .container a:hover {
+    color: rgb(58, 100, 58);
+    background-color: white;
+}
+
+
 
 
 /* credit-block */
