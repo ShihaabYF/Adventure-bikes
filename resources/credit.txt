@@ -1,0 +1,71 @@
+Resources & credit:
+
+1- ktm bike:
+	https://s7g10.scene7.com/is/image/ktm/371567:Small?wid=1050&hei=1050&dpr=off
+	
+	
+2-ktm bike:
+	--https://azwecdnepstoragewebsiteuploads.azureedge.net/PHO_BIKE_PERS_REVO_1290-sadv-s-or-21-revo_%23SALL_%23AEPI_%23V2.png
+	
+	--https://wallpapercave.com/w/wp4276225
+	
+	
+3-adventure-bike_logo:
+	https://pixabay.com/vectors/bike-chopper-drive-hog-motorbike-2028205/
+	
+	
+4-adventure-bike_Tap-Icon:
+	https://www.vecteezy.com/vector-art/10505481-adventure-touring-bike-motorcycle
+	
+	
+5-bmw 1250 gs
+	https://wallpapercave.com/w/wp4277895
+	
+	
+6-honda africa twin
+	https://wallpapercave.com/w/wp3866249
+	
+	
+7-Triumph Tiger
+	https://wallpapercave.com/w/wp3637146
+	
+	new-update:(I changed the previous image)
+		https://wallpapercave.com/w/wp3637151
+	
+	
+8-Ducati Multistrada
+	https://wallpapercave.com/w/wp4183151
+	
+	new-update:(I chanded the previous image)
+		https://wallpapercave.com/w/wp4183175
+======================================================
+
+Adventure bikes:
+	Requiring little more than a functional motorcycle and an eye for exploration, adventure motorcycling is riding in its purest form. Often associated with big motorcycles sporting knobby tires, adventure riding simply means venturing into the unknown on two wheels.
+	Adventure motorcycles can range in size and engine displacement, but they need to be reliable and capable of carry you through the tough stuff and keep you rolling on your journey. 
+	
+	("https://www.overlandexpo.com/compass/what-is-adventure-riding/")
+	
+	
+=========================================================
+join section
+	If we make you interested, why not be a member of our community, what are you waiting for! Join Now
+	
+	
+==========================================================
+For Odin Project Heroes:
+	This is my second FlexBox-Project, before I did any code, even before opening the VSCode, I did collect and design everything that I am going to be included in my main-page (index),
+	Here is my first FlexBox-Project:(link to the project).
+	
+==========================================================
+For the resources that I used, I tried to keep them FreeOpenSources, but when I don't find what I am looking for, I tried a random resource (not under freeUse), so if you have any conserns about any of the resources please contact me for more infomation.
+And just as a side notes, this project is only for educational peposes only!
+			("credit") ("contact me")
+			
+			
+==============================================================
+footer:
+	Copyright © The Odin Project-ShihaabYf 2022
+
+
+
